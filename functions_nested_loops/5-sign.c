@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * print_sign - xd 
+ * print_sign - xd
  * @n: .
  * Return: 0
  */
