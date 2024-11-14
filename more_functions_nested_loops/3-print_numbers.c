@@ -2,14 +2,16 @@
 
 /**
  * print_numbers - imprime los numeros del 0 al 9
+ * Return del 0 al 9
  */
+
 void print_numbers(void)
 {
-	char c;
+	char xd;
 
-	for (c = '0'; c <= '9'; c++)
+	for (xd = '0'; xd <= '9'; xd++)
 	{
-		putchar (c);
+		putchar (xd);
 	}
 	putchar ('\n');
 }
